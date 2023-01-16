@@ -1,5 +1,5 @@
 
-package factorymethod;
+package factorymethod.src;
 
 public interface Ruoka {
 

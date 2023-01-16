@@ -1,4 +1,4 @@
-package factorymethod;
+package factorymethod.src;
 
 public class Mehu implements Juoma{
 
